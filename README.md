@@ -1,2 +1,2 @@
 # hello-world
-A super useless repo
+A super useful repo
